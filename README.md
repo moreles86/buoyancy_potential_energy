@@ -6,7 +6,7 @@
 Script in Matlab and Python that quantifies the buoyancy potential energy required for a water parcel in hydrostatic equilibrium to be vertically displaced from a specific reference height. Input data and a demonstration for reproducing the figures in the manuscript are included.
 
 ## Demo
-To view the demostration, go to the notebook `demo.ipynb` and run it.
+To view the demostration, go to the notebook `demo/demo.ipynb` and run it.
 
 ## How to cite
 

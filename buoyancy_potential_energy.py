@@ -6,7 +6,7 @@ from scipy import interpolate
 Function to calculate the BUOYANCY POTENTIAL ENERGY (BPE)
 BPE quantifies the buoyancy potential energy required for a water parcel in hydrostatic equilibrium to be vertically displaced from a specific reference height.
 """
-def bpe(rho, z, zint):
+def buoyancy_potential_energy(rho, z, zint):
 	"""
 	Parameters:
     - Depth (z) and density (rho) data should go from the deepest to the shallowest and be column vectors

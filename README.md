@@ -2,6 +2,7 @@
 
 <a href="https://github.com/moreles86/buoyancy_potential_energy"><img src="https://shields.io/github/v/release/moreles86/buoyancy_potential_energy" alt="Release"></a>
 <a href="https://github.com/moreles86/buoyancy_potential_energy/blob/main/LICENSE"><img src="https://shields.io/github/license/moreles86/buoyancy_potential_energy" alt="License"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14911394.svg)](https://doi.org/10.5281/zenodo.14911394)
 
 Script in Matlab and Python that quantifies the buoyancy potential energy required for a water parcel in hydrostatic equilibrium to be vertically displaced from a specific reference height. Input data and a demonstration for reproducing the figures in the manuscript are included.
 
@@ -13,7 +14,7 @@ To view the demostration, go to the notebook `demo/demo.ipynb` and run it.
 > [!IMPORTANT]
 > _A scientific publication related to this repository is being reviewed by a journal, for now, you can use the Zenodo reference:_
 > 
-> ...
+> moreles86. moreles86/buoyancy_potential_energy: buoyancy_potential_energy (v1.1). Zenodo. [https://doi.org/10.5281/zenodo.14911394](https://doi.org/10.5281/zenodo.14911394), 2025.
 > 
 
 ## Data acknowledgment
